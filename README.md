@@ -1,4 +1,4 @@
-# Enigma_Cryptography
+# Enigma Cryptography
  Virtual German Enigma machine based on the World War 2 cipher machine. Class 11 Year end Project.
 
 ## How to Use
